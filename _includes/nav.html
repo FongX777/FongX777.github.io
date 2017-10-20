@@ -37,7 +37,7 @@
       </ul>
     </div>
 
-	{% if page.image and (layout.show-avatar or page.show-avatar) %}
+	{% if page.image and not (layout.show-avatar or page.show-avatar) %}
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
 	    <a href="{{ site.url }} ">
