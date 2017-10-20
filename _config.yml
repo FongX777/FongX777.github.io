@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
+url: "https://fongx777.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,21 +14,22 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: FongX777's Blog
+title: FongX's Blog
 
 # Short description of your site
-description: A virtual proof that name is awesome!
-
+description: 一個對世界充滿好奇心的小伙子用空閒時間留下的學習&生活筆記
+    
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "index"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Archive: 
+    - By Date: "blog/archive"
+    - By Category: "blog/category"
+    - By Tag: "blog/tag"
+  Github: "https://github.com/FongX777"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -55,9 +56,9 @@ avatar: "/img/myPhoto.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
+  name: FongX
+  email: "fong1143@gmail.com"
+  facebook: 100001460325903  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
@@ -79,7 +80,7 @@ footer-links-active:
   rss: false
   facebook: true
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
@@ -100,7 +101,7 @@ share-links-active:
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -157,7 +158,7 @@ defaults:
       show-avatar: true
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
-link-tags: false
+link-tags: true
 
 # Exclude these files from production site
 exclude:

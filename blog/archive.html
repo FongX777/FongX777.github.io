@@ -1,0 +1,41 @@
+---
+layout: default
+tilte: Archive
+---
+<style>
+	li{
+		list-style-type: none;
+	}
+	small {
+		color: grey;
+	}
+	h3 {
+		margin-top: 10px;
+	}
+
+</style>
+ <h2> 2017 </h2>
+ <br>
+ {% for post in site.posts %}
+	 <li>
+		 <small>{{ post.date | date: '%B %d' }}</small>
+		 <h3>
+			 <a href="{{ post.url }}"> {{ post.title }} </a>
+		 </h3>
+		 <h4>
+			 <a class="category" href="/blog/category/#{{post.category}}">
+				 <i class="fa fa-bookmark" aria-hidden="true"></i>
+				 {{post.category}}
+			 </a> 
+		 </h4>
+		 {% for tag in post.tags %}
+		 <a class="tag btn btn-primary btn-sm" href="/blog/tag/#{{ tag | slugify }}">
+			 <i class="fa fa-tag" aria-hidden="true"></i>
+			 &nbsp {{ tag }}
+		 </a>
+		 {% endfor %}
+	 </li>
+
+	 <hr>
+ {% endfor %}
+
