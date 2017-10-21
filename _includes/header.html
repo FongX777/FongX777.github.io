@@ -1,4 +1,30 @@
 <!-- TODO this file has become a mess, refactor it -->
+<style>
+	hr.white{
+		color:white;
+		opacity: 0.0;
+	}
+	span.gray{
+		color: #808080;
+	}
+	.white{
+		color: white;
+	}
+	.head-title{
+		font-size: 65px;
+		text-shadow: 0px 0px white;
+		/*color: rgb(231, 231, 231);*/
+		font-weight: 600; 	/*normal: 400, bold: 700*/
+		margin-top: 30px;
+	}
+	.blur{
+		-webkit-filter: blur(5px);
+		-moz-filter: blur(5px);
+		-o-filter: blur(5px);
+		-ms-filter: blur(5px);
+		filter: blur(5px);
+	}
+</style>
 
 {% if page.bigimg or page.title %}
 
@@ -25,11 +51,11 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <div class="{{ include.type }}-heading">
-          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
+          <h2 class="head-title">{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h2>
 		  {% if page.subtitle %}
 		    {% if include.type == "page" %}
-            <hr class="small">
-            <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
+            <hr class="small white">
+            <span class="{{ include.type }}-subheading ">{{ page.subtitle }}</span>
 			{% else %}
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
@@ -53,8 +79,8 @@
           <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
 		  {% if page.subtitle %}
 		    {% if include.type == "page" %}
-            <hr class="small">
-            <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
+            <hr class="small white">
+            <span class="{{ include.type }}-subheading gray">{{ page.subtitle }}</span>
 			{% else %}
 			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
 			{% endif %}
@@ -74,3 +100,5 @@
 {% else %}
 <div class="intro-header"></div>
 {% endif %}
+
+<br>
