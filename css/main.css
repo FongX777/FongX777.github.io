@@ -122,13 +122,13 @@ img {
 
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 16px;
   letter-spacing: 1px;
 }
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
+  font-weight: 600;
   color: #404040;
 }
 
@@ -360,7 +360,7 @@ footer .theme-by {
   color: #808080;
   font-size: 18px;
   font-style: italic;
-  margin: 20px 0 10px 0;	/*modified, original: 0 0 10px*/
+  margin: 15px 0 5px 0;	/*modified, original: 0 0 10px*/
 }
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -388,7 +388,8 @@ footer .theme-by {
   width: 192px;
 }
 .post-preview .post-read-more {
-  font-weight: 800;
+  font-weight: 600; /*modified, original: 800*/
+  color: #008AFF;
 }
 
 @media only screen and (min-width: 768px) {
