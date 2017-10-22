@@ -6,17 +6,21 @@ tags: [life, introduction, random]
 category: life
 ---
 
-我終於要開始認真(?)寫我的部落格了！！！  
+當完兵後也已經過去一週，      
+該動手實現一些當初想做未做（或該做未做）的事情了~~  
+第一件事那就是...認真(?)開始我的部落格了！！！  
 
 
 ## 關於成長 ##
 
 寫部落格紀錄生活與學習的想法其實藏在我心理很久了，  
-從看大學好友`炮王` 用github io 架設部落格，  
+從看大學好友**炮王** 用github io 架設部落格，  
 以及許多朋友用各種方式開始自己的Blog之旅，
 到看了許多強人的文章都推薦寫部落格是變強之旅的開始。  
+(延伸閱讀：[我為什麼鼓勵工程師寫 blog][blog advantage])  
 
-不過礙於時間方面(**藉口**)以及心理方面(**又是藉口**)所以遲遲開始不了，  
+
+不過礙於時間方面(**藉口**)以及心理方面(**更多藉口**)等等問題所以遲遲開始不了，  
 又或是剛開始就半途而廢QQ...
 但大學都畢業了，  
 兵也當完了(不要再嗆我爽兵了QQ)，  
@@ -38,18 +42,14 @@ category: life
 請大家多多指教！  
 
 ---
-
+PS1
 本 blog 是從 [beautiful-jekyll][theme url] 模板 fork 來的，  
-我覺得還蠻好用的~~乾淨又簡單，  
+我覺得還蠻好用的~~  乾淨又簡單，  
 雖然有想過去找一些更複雜的模板來用，  
 但最後還是決定保持畫面乾淨，  
-若想要更多功能再靠自己後續去摸索。  
-
-這裡有一系列的theme 可以使用：
-[dr. jekyll's themes][theme collection]  
-
-
-
+若想要更多功能再靠自己後續去開發&摸索。  
+(延伸閱讀： [jekyll 的 theme 們： dr. jekyll's themes][theme collection]  
+PS2  
 其實一開始設定就出了一些問題QQ  
 當我這篇文章打上檔名 `2017-10-20-first-post.md` 的時候，  
 主頁上一直顯示不出來這篇文章，  
@@ -68,5 +68,8 @@ category: life
 [theme collection]: https://drjekyllthemes.github.io/
 [timezone list]: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 [tag tutorial]: https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/
+[blog advantange]: https://dotblogs.com.tw/hatelove/2017/03/26/why-engineers-should-keep-blogging
+
+
 
 
