@@ -11,7 +11,7 @@ category: life
 第一件事那就是...認真(?)開始我的部落格了！！！  
 
 
-## 關於成長 ##
+## <i style="color:red">#</i>關於成長 ##
 
 寫部落格紀錄生活與學習的想法其實藏在我心理很久了，  
 從看大學好友**炮王** 用github io 架設部落格，  
@@ -26,6 +26,9 @@ category: life
 兵也當完了(不要再嗆我爽兵了QQ)，  
 是時候該學著誠實面對自己，  
 也為自己負責了！
+
+
+## <i style="color:red">#</i>關於目標 ##
 
 目前為自己訂定的目標是
 希望在開始找工作之前，  
@@ -48,7 +51,8 @@ PS1
 雖然有想過去找一些更複雜的模板來用，  
 但最後還是決定保持畫面乾淨，  
 若想要更多功能再靠自己後續去開發&摸索。  
-(延伸閱讀： [jekyll 的 theme 們： dr. jekyll's themes][theme collection]  
+(延伸閱讀： [jekyll 的 theme 們： dr. jekyll's themes][theme collection])  
+
 PS2  
 其實一開始設定就出了一些問題QQ  
 當我這篇文章打上檔名 `2017-10-20-first-post.md` 的時候，  
@@ -57,7 +61,7 @@ PS2
 它的預設 `timezone` 為 `"America/Vancouver"` ，  
 跟我身處的時區不同，  
 因此這篇文章的時間(2017/10/20)因為被視為未來的文章所以不予顯示QQ，  
-後來把他改成 `"Asia/Taipei"` 才把這篇呼喚出來~~~
+後來把他改成 `"Asia/Taipei"` 才把這篇呼喚出來~~~  
 更多時區可以參考： 
 [List of tz database time zones][timezone list]
 
