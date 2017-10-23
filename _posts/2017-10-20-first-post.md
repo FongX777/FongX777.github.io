@@ -72,7 +72,10 @@ PS2
 [theme collection]: https://drjekyllthemes.github.io/
 [timezone list]: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 [tag tutorial]: https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/
-[blog advantange]: https://dotblogs.com.tw/hatelove/2017/03/26/why-engineers-should-keep-blogging
+[blog advantage]: https://dotblogs.com.tw/hatelove/2017/03/26/why-engineers-should-keep-blogging
+[view counter]: http://taoalpha.github.io/blog/2015/06/07/tech-add-google-analytics-pageviews-to-jekyll-blog/
+
+
 
 
 
