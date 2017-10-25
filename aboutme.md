@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 成為那個改變世界的改變
+subtitle: 成為那個改變世界的改變<br>Be the change of the world you want
 ---
 
 My name is 劉鳳軒(FongXuan Liou). Nice to meet you.  

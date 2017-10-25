@@ -7,7 +7,7 @@ title: Tag
 		color: grey;
 	}
 	li {
-		list-style-type: none;
+		/*list-style-type: none;*/
 	}
 </style>
 
@@ -54,10 +54,14 @@ The purpose of this snippet is to list all the tags you have in your site.
 =======================
 {% endcomment %}
 {% for tag in tags %}
-	<a class="btn btn-primary btn-sm" href="#{{ tag | slugify }}"> 
-		<i class="fa fa-tag"></i>&nbsp{{ tag }} 
+	&nbsp;
+	<a class="btn-tag tag-big" href="#{{ tag | slugify }}">
+		{{ tag }} 
 	</a>
 {% endfor %}
+
+<br>
+<br>
 
 
 {% comment %}

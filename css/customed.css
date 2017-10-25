@@ -19,3 +19,33 @@ article h2::before{
 article a h2::before{
 	content: "";
 }
+
+.btn-tag {
+	color: #fff;
+	background-color: #c6cbe9;
+
+	padding: 0px 5px;
+	font-size: 80%;
+	line-height: 1.5;
+	border-radius: 4px;
+
+	font-weight: 500;
+}
+.btn-tag:hover,
+.btn-tag:focus {
+	background-color: #c0ddc7;	
+	text-decoration: none;
+}
+
+.tag-color{
+	color: #c6cbe9;
+}
+
+.tag-big{
+	font-size: 120%;
+}
+
+a.category:hover,
+a.category:focus {
+	text-decoration: none;		
+}

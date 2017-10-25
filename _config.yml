@@ -16,7 +16,7 @@ baseurl: ""
 # Name of website
 title: FongX's Blog
 
-# Short description of your site
+    # Short description of your site
 description: 一個對世界充滿好奇心的小伙子用空閒時間留下的學習&生活筆記
     
 # --- Navigation bar options --- #
@@ -24,11 +24,11 @@ description: 一個對世界充滿好奇心的小伙子用空閒時間留下的�
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  About Me: "aboutme"
   Archive: 
     - By Date: "archive/date"
     - By Category: "archive/category"
     - By Tag: "archive/tag"
+  About Me: "aboutme"
   Github: "https://github.com/FongX777"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -59,7 +59,7 @@ author:
   name: FongX
   email: "fong1143@gmail.com"
   facebook: 100001460325903  # eg. daattali
-  github: yourname    # eg. daattali
+  github: FongX777    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
