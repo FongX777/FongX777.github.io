@@ -171,6 +171,8 @@ exclude:
   - README.md
   - Vagrantfile
   - todolist
+  - secret_key.json
+  - privatekey.p12
 
 # prose.io config
 prose:
@@ -223,6 +225,18 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
+
+jekyll_ga:
+  service_account_email: fong1143@gmail.com    # service account email address
+  key_file: privatekey.p12  # service account private key file
+  key_secret: notasecret    # service account private key's password
+  profileID: ga:163065096        # profile ID 
+  start: last month         # Beginning of report
+  end: now                  # End of report
+  metric: ga:pageviews      # Metric code
+  segment:                  # optional
+  filters:                  # optional
+  sort: true                # Sort posts by this metric
 
 plugins:
   - jekyll-paginate

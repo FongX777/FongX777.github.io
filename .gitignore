@@ -8,6 +8,8 @@ _site
 Thumbs.db
 ehthumbs.db
 *.swp
+secret_key.json
+privatekey.p12
 
 
 #memo

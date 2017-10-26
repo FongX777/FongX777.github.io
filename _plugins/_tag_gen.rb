@@ -31,3 +31,4 @@ module Jekyll
     end
   end
 end
+Liquid::Template.register_tag('pageview', Jekyll::PageViewTag)
