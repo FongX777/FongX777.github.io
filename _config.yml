@@ -170,6 +170,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - todolist
 
 # prose.io config
 prose:

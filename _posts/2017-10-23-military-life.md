@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 當兵的孩子不會變笨(?)  上
-subtitle: 當兵4個月的我思我見我成長
+subtitle: 新訓注意事項&甘苦談
 tags: [life, military, growth, thinking]
 category: life
 ---
@@ -18,10 +18,10 @@ category: life
 分別為
 
 - [上][1]
-  * 報到
-  * 關於新訓
-  * 新訓時光
-  * 對長官的一些想法
+  * [報到][1-1]
+  * [關於新訓][1-2]
+  * [新訓時光][1-3]
+  * [對長官的一些想法][1-4]
 - 中
   * 關於陸戰隊
   * 認識的朋友們
@@ -200,3 +200,10 @@ category: life
 
 
 [1]: /2017-10-23-military-life/
+[1-1]: /2017-10-23-military-life/#報到
+[1-2]: /2017-10-23-military-life/#關於新訓
+[1-3]: /2017-10-23-military-life/#新訓時光
+[1-4]: /2017-10-23-military-life/#對長官的一些想法
+
+[2]: /2017-10-25-military-life-2/
+[3]: /2017-10-27-military-life-3/

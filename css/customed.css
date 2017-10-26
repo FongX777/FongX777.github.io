@@ -1,16 +1,12 @@
-red{
-	color: red;
-}
-blue{
-	color: blue;
-}
-green{
-	color: green;
-}
-yellow{
-	color: yellow;
+p a{
+	font-weight: bold;
+	/*text-shadow: 1px 1px #EFEFEF, 2px 2px #CCC;*/
+	word-wrap: break-word;
 }
 
+article h2{
+	text-shadow: 1px 1px #EFEFEF, 2px 2px #CCC;
+}
 article h2::before{
 	content:"#";
 	color:red;
@@ -48,4 +44,17 @@ article a h2::before{
 a.category:hover,
 a.category:focus {
 	text-decoration: none;		
+}
+
+red{
+	color: red;
+}
+blue{
+	color: blue;
+}
+green{
+	color: green;
+}
+yellow{
+	color: yellow;
 }

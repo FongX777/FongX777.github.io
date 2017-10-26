@@ -35,6 +35,12 @@ layout: base
         {{ content }}
       </article>
 
+	  <div class="blog-tags">
+		  Category:
+		  <a class="gray" href="{{ site.baseurl }}/archive/category/#{{
+		  page.category }}">{{ page.category }}</a>
+	  </div>
+	  
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           Tags:
