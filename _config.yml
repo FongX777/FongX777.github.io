@@ -115,7 +115,7 @@ disqus: "https-fongx777-github-io"
 google_analytics: "UA-108468383-1"
 
 # Google Tag Manager ID
-gtm: ""
+#gtm: ""
 
 # Facebook App ID
 # fb_app_id: ""
