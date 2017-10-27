@@ -64,6 +64,24 @@
 		  
 		  {% if include.type == "post" %}
 		  <span class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</span>
+		  <hr>
+			<div class="blog-tags">
+			  <i class="fa fa-bookmark" aria-hidden="true"></i>
+			  <a class="category gray" href="{{ site.baseurl }}/archive/category/#{{
+			  page.category }}">{{ page.category }}</a>
+
+				&nbsp;&nbsp;
+			  {% if page.tags.size > 0 %}
+				  <i class="fa fa-tags tag-color" aria-hidden="true"></i>
+				  {% if site.link-tags %}
+				  {% for tag in page.tags %}
+					<a class="gray" href="/tag/{{ tag }}">{{ tag }}</a>
+				  {% endfor %}
+				  {% else %}
+					{{ page.tags | join: ", " }}
+				  {% endif %}
+			  {% endif %}
+			</div>
 		  {% endif %}
         </div>
       </div>
@@ -90,7 +108,26 @@
 
 		  
 		  {% if include.type == "post" %}
+
 		  <span class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</span>
+		  <hr>
+			<div class="blog-tags">
+			  <i class="fa fa-bookmark" aria-hidden="true"></i>
+			  <a class="category gray" href="{{ site.baseurl }}/archive/category/#{{
+			  page.category }}">{{ page.category }}</a>
+
+				&nbsp;&nbsp;
+			  {% if page.tags.size > 0 %}
+				  <i class="fa fa-tags tag-color" aria-hidden="true"></i>
+				  {% if site.link-tags %}
+				  {% for tag in page.tags %}
+					<a class="gray"href="/tag/{{ tag }}">{{ tag }}</a>
+				  {% endfor %}
+				  {% else %}
+					{{ page.tags | join: ", " }}
+				  {% endif %}
+			  {% endif %}
+			</div>
 		  {% endif %}
 
 		  <hr>

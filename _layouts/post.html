@@ -35,24 +35,24 @@ layout: base
         {{ content }}
       </article>
 
-	  <div class="blog-tags">
+	  <br>
+	  
+        <div class="blog-tags">
 		  Category:
 		  <a class="gray" href="{{ site.baseurl }}/archive/category/#{{
 		  page.category }}">{{ page.category }}</a>
-	  </div>
-	  
-      {% if page.tags.size > 0 %}
-        <div class="blog-tags">
-          Tags:
-          {% if site.link-tags %}
-          {% for tag in page.tags %}
-            <a href="/tag/{{ tag }}">{{ tag }}</a>
-          {% endfor %}
-          {% else %}
-            {{ page.tags | join: ", " }}
-          {% endif %}
+		  <br>
+		  {% if page.tags.size > 0 %}
+			  Tags:
+			  {% if site.link-tags %}
+			  {% for tag in page.tags %}
+				<a href="/tag/{{ tag }}">{{ tag }}</a>
+			  {% endfor %}
+			  {% else %}
+				{{ page.tags | join: ", " }}
+			  {% endif %}
+		  {% endif %}
         </div>
-      {% endif %}
 
       {% if page.social-share %}
         {% include social-share.html %}

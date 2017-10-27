@@ -16,6 +16,39 @@ article a h2::before{
 	content: "";
 }
 
+article h3 em::before{
+	content:"#";
+	color: #365899;
+}
+article h3 em{
+	color: #365899;
+	font-weight: 400;
+	font-style: normal;
+}
+article h3 em:hover {
+	font-decoration: uderline;
+}
+
+article a.hashtag::before{
+	content:"#";
+	color: #365899;
+}
+article a.hashtag::after{
+	
+}
+article a.hashtag{
+	color: #365899;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 24px;
+}
+article a.hashtag:hover {
+	font-decoration: uderline;
+}
+
+
+
+
 .btn-tag {
 	color: #fff;
 	background-color: #c6cbe9;
@@ -57,4 +90,12 @@ green{
 }
 yellow{
 	color: yellow;
+}
+gray{
+	color: gray;
+}
+
+li em{
+	color: gray;
+}
 }
