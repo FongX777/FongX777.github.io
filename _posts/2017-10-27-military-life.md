@@ -4,7 +4,6 @@ title: 當兵的孩子不會變笨（？）  上
 subtitle: 新訓注意事項&甘苦談
 tags: [life, military, growth, thinking]
 category: life
-image: /img/2017/10-27/cover.JPG
 ---
 
 ![cover photo][cover]
