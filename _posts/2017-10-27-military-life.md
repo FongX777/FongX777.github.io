@@ -1,4 +1,4 @@
-	---
+---
 layout: post
 title: 當兵的孩子不會變笨（？）  上
 subtitle: 新訓注意事項&甘苦談
