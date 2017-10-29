@@ -4,6 +4,7 @@ p a{
 	word-wrap: break-word;
 }
 
+
 article h2{
 	text-shadow: 1px 1px #EFEFEF, 2px 2px #CCC;
 }
@@ -33,9 +34,6 @@ article a.hashtag::before{
 	content:"#";
 	color: #365899;
 }
-article a.hashtag::after{
-	
-}
 article a.hashtag{
 	color: #365899;
 	font-weight: 400;
@@ -45,6 +43,7 @@ article a.hashtag{
 article a.hashtag:hover {
 	font-decoration: uderline;
 }
+
 
 
 
@@ -97,5 +96,4 @@ gray{
 
 li em{
 	color: gray;
-}
 }
