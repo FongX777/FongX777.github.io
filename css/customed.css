@@ -48,6 +48,10 @@ article a.hashtag:hover {
 	font-decoration: uderline;
 }
 
+article a:hover {
+	cursor: pointer;
+}
+
 
 
 
