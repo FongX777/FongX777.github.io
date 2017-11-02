@@ -2,8 +2,8 @@
 layout: post
 title: 當兵的孩子不會變笨（？）  上
 subtitle: 新訓注意事項&甘苦談
-tags: [life, military, growth, thinking]
-category: life
+tags: [生活, 當兵, 成長, thinking, 4個月, 陸戰隊, 新訓]
+category: 生活(life)
 ---
 
 ![cover photo][cover]
