@@ -72,7 +72,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 	</h3>
 	<ul>
 	 {% for post in site.posts %}
-		 {% if post.tags contains tag %}
+		 {% if post.category == tag %}
 		 <li>
 		 <h3>
 		 <a href="{{ post.url }}">

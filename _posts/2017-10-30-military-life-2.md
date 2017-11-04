@@ -4,7 +4,6 @@ title: 當兵的孩子不會變笨（？）  下
 subtitle: 下部隊注意事項&甘苦談
 tags: [生活, 當兵, 成長, thinking, 4個月, 陸戰隊, 新訓]
 category: 生活(life)
-
 ---
 
 ![大兵手記][dairy]

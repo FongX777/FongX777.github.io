@@ -1,9 +1,9 @@
 ---
 layout: post
-title: FongXの首家線上部落格上線拉
+title: FongXの首家線上部落格上線啦
 subtitle: 千里之行，始於足下
-tags: [life, introduction, random]
-category: life
+tags: [生活, 紀錄]
+category: 生活(life)
 ---
 
 當完兵後也已經過去一週，      

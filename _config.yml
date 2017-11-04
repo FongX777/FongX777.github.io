@@ -260,6 +260,18 @@ jekyll-minifier:
   simple_boolean_attributes: false  # Default: false
   compress_js_templates: false      # Default: false
 
+compress_html:
+  clippings: all 
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: []
+  blanklines: false
+  profile: false
+  startings: []
+
+
+
 plugins:
   - jekyll-paginate
   - jemoji
