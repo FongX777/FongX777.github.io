@@ -7,6 +7,8 @@ gem "github-pages", '163', group: :jekyll_plugins
 gem 'jekyll-paginate'
 gem 'jemoji'
 gem 'jekyll-minifier'
+gem 'jekyll-asset-pipeline'
+
 
 
 
