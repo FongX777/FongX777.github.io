@@ -84,7 +84,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 		 <span>
 			 <i class="fa fa-tags tag-color" aria-hidden="true"></i>
 			 {% for tag in post.tags %}
-			 <a class="tag btn-tag" href="/blog/tag/#{{ tag | slugify }}">
+			 <a class="tag btn-tag" href="/archive/tag/#{{ tag | slugify }}">
 				 {{ tag }}
 			 </a>
 			 &nbsp;
