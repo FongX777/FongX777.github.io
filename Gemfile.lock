@@ -102,6 +102,8 @@ GEM
       pathutil (>= 0.8)
       rack (~> 1.6)
       sprockets (~> 3.3, < 3.8)
+    jekyll-auto-image (1.1.3)
+      jekyll
     jekyll-avatar (0.5.0)
       jekyll (~> 3.0)
     jekyll-coffeescript (1.0.2)
@@ -120,6 +122,7 @@ GEM
       activesupport (~> 4.0)
       html-pipeline (~> 2.3)
       jekyll (~> 3.0)
+    jekyll-mermaid (1.0.0)
     jekyll-minifier (0.1.5)
       cssminify2 (~> 2.0)
       htmlcompressor (~> 0.3)
@@ -247,6 +250,8 @@ DEPENDENCIES
   github-pages (= 163)
   jekyll-asset-pipeline
   jekyll-assets
+  jekyll-auto-image
+  jekyll-mermaid
   jekyll-minifier
   jekyll-paginate
   jemoji

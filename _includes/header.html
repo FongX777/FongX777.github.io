@@ -70,17 +70,6 @@
 			  <a class="category gray" href="{{ site.baseurl }}/archive/category/#{{
 			  page.category }}">{{ page.category }}</a>
 
-				&nbsp;&nbsp;
-			  {% if page.tags.size > 0 %}
-				  <i class="fa fa-tags tag-color" aria-hidden="true"></i>
-				  {% if site.link-tags %}
-				  {% for tag in page.tags %}
-					<a class="gray" href="/tag/{{ tag }}">{{ tag }}</a>
-				  {% endfor %}
-				  {% else %}
-					{{ page.tags | join: ", " }}
-				  {% endif %}
-			  {% endif %}
 			</div>
 		  {% endif %}
         </div>
@@ -116,17 +105,6 @@
 			  <a class="category gray" href="{{ site.baseurl }}/archive/category/#{{
 			  page.category }}">{{ page.category }}</a>
 
-				&nbsp;&nbsp;
-			  {% if page.tags.size > 0 %}
-				  <i class="fa fa-tags tag-color" aria-hidden="true"></i>
-				  {% if site.link-tags %}
-				  {% for tag in page.tags %}
-					<a class="gray"href="/tag/{{ tag }}">{{ tag }}</a>
-				  {% endfor %}
-				  {% else %}
-					{{ page.tags | join: ", " }}
-				  {% endif %}
-			  {% endif %}
 			</div>
 		  {% endif %}
 

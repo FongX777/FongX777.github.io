@@ -38,15 +38,17 @@ layout: base
 	  <br>
 	  
         <div class="blog-tags">
-		  Category:
+		  <i class="fa fa-bookmark" aria-hidden="true"></i>
+		  &nbsp;
 		  <a class="gray" href="{{ site.baseurl }}/archive/category/#{{
 		  page.category }}">{{ page.category }}</a>
 		  <br>
 		  {% if page.tags.size > 0 %}
-			  Tags:
+			  <i class="fa fa-tags tag-color" aria-hidden="true"></i>
+		  		&nbsp;
 			  {% if site.link-tags %}
 			  {% for tag in page.tags %}
-				<a href="/tag/{{ tag }}">{{ tag }}</a>
+				<a class="gray" href="/tag/{{ tag }}">{{ tag }}</a>
 			  {% endfor %}
 			  {% else %}
 				{{ page.tags | join: ", " }}

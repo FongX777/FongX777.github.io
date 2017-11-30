@@ -251,14 +251,24 @@ compress_html:
   profile: false
   startings: []
 
+image: /img/avatar-icon.png
 
+assets:
+  source:
+    - assets/css/
+    - assets/js/
+    - assets/img/
 
+mermaid:
+  src: 'https://unpkg.com/mermaid@7.1.0/dist/mermaid.min.js'
 
 plugins:
   - jekyll-paginate
   - jemoji
   - jekyll-minifier
-  - jekyll-asset
+  - jekyll-assets
+  - jekyll-auto-image
+  - jekyll-mermaid
 
 
 # Beautiful Jekyll / Dean Attali

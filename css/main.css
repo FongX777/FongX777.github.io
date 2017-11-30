@@ -22,7 +22,7 @@ body {
 }
 p {
   line-height: 1.5;
-  margin: 5px 0 30px 0; 	/*modified, original: 30px 0*/
+  margin: 5px 0 25px 0; 	/*modified, original: 30px 0*/
 }
 p a {
   /* text-decoration: underline */
@@ -338,7 +338,7 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #008AFF;  /*modified, original: #404040*/
+  color: #404040;/*color: #008AFF;  /*modified, original: #404040*/
 }
 /* new*/
 .post-preview a h3{

@@ -2,10 +2,17 @@ article h3 {
   margin-bottom: 20px; 
   color:#ff6600;
 }
+p img{
+	margin: auto;	
+}
+
 p a{
 	font-weight: bold;
 	/*text-shadow: 1px 1px #EFEFEF, 2px 2px #CCC;*/
 	word-wrap: break-word;
+}
+p a strong{
+	/*border-bottom: 2.5px #008AFF dashed;*/
 }
 
 
