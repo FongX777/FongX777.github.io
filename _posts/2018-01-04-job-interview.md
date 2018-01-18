@@ -9,7 +9,7 @@ img-src: /img/2017/01-04
 url:  /2018-01-04-job-interview/
 ---
 
-###前言
+### 前言
 其實在打這篇以前心中還是有一些些掙扎，
 因為自己的經歷說起來也沒什麼特別的，
 拿到的 offer 也不是說可以給大家有多少幫助。
@@ -18,7 +18,7 @@ url:  /2018-01-04-job-interview/
 總會有人會因為我的文章得到一些幫助！
 另外就是開始[紀錄自己的歷程](https://medium.freecodecamp.org/why-documenting-your-journey-will-lead-to-success-as-a-developer-38aa9fa4bac8)也是種幫助成長的好方法！
 
-###關於我
+### 關於我
 四大學士，本科生，
 在學期間沒有什麼特殊的學業表現，
 倒是在社團上、通識課上付出很大的心力，
@@ -51,7 +51,7 @@ url:  /2018-01-04-job-interview/
 然後前端主要用 `bootstrap` 來做排版，
 沒有用到任何前端 framework。
 
-###為什麼不念研究所
+### 為什麼不念研究所
 這是每一個面試官都會問到的問題，
 畢竟我是四大畢業，
 2/3以上的朋友們都繼續研究高深的資訊專業（ = DL ），
@@ -71,13 +71,13 @@ url:  /2018-01-04-job-interview/
 我更偏好看到自己能夠創造出別人可以用、喜歡用的軟體，
 對我來說這才是在創造價值。
 
-###為什麼選新創
-
-
 	
 ### 找工作之前
 重點是： 認識自己！！！
 	- 你想要什麼？
+	- 模擬面試題
+	- 複習做過的 project 
+	- 惡補知識 QQ
 	- 你對自己的期許
 	- 你未來 3-5 年規劃？
 
@@ -107,7 +107,7 @@ Yourator 主要以新創為主，以數量上雖然完全比不上 104，
 
 大致格式：  
 - 個人簡介
-- 為什麼想加入貴公司（~拍馬屁~）、對產業的見解等等
+- 為什麼想加入貴公司（~~拍馬屁~~）、對產業的見解等等
 - 技能與職缺 match 程度（就把對方開的條件 copy/paste 下來）
 - 額外加分點 （實習、社團、專案經驗）
 - （選）個人特質等等
@@ -119,26 +119,26 @@ Yourator 主要以新創為主，以數量上雖然完全比不上 104，
 
 ### 面試時
 如何了解這家公司？
-	- 如果加入公司的話自己的主要工作內容為何？
-	- 工程師團隊組成&架構 （不要進去後才發現只有你一個工程師）
-	- 目前使用的技術有哪些
-	- 技術上遇到的最大困難是什麼？ 如何解決？
-	- 未來有機會參與到其他專案的開發嗎？
-	- 除了現在的產品，未來還有什麼新的項目？
-	- 請他說明產品如何賺錢以及核心價值
-	- 公司風氣 （如何溝通、解決紛爭等等）
-	- 你當初為什麼加入（創辦）這家公司？
-	- 公司規模以及預計成長
-	- 福利 & 上下班時間 （還有公司給不給你買書、課程報帳）
-	- 薪資（通常對方會再最後問到）
+- 如果加入公司的話自己的主要工作內容為何？
+- 工程師團隊組成&架構 （不要進去後才發現只有你一個工程師）
+- 目前使用的技術有哪些
+- 技術上遇到的最大困難是什麼？ 如何解決？
+- 未來有機會參與到其他專案的開發嗎？
+- 除了現在的產品，未來還有什麼新的項目？
+- 請他說明產品如何賺錢以及核心價值
+- 公司風氣 （如何溝通、解決紛爭等等）
+- 你當初為什麼加入（創辦）這家公司？
+- 公司規模以及預計成長
+- 福利 & 上下班時間 （還有公司給不給你買書、課程報帳）
+- 薪資（通常對方會再最後問到）
+
 如果想不到問題就跟他說「讓我想想」也沒關係，
-通常對方
+通常對方也會給你時間思考。
 
 從細節來看：
-	- 面試官身份
-	- 面試關卡以及設計
-	- 喜不喜歡眼前這個人
-	- 
+- 面試官身份
+- 面試關卡以及設計
+- 喜不喜歡眼前這個人
 
 小技巧：談到薪資時，可以提出一個範圍給對方，
 不要像我一開始開個 「XX 上下」（XX為底），
@@ -164,21 +164,20 @@ onboard時間，這時候請自行評估，如果你面的公司很多，就儘�
 
 	決定先專心在課業上，把一些有興趣的課修一修
 
-
 - 2017/12/21 ， 投 **meepShop** 、 **Lingtelli** 、 Clappin 、 TWJOIN 、
 	noodoe 
 - 2017/12/25 ， 投 **Garena** 、 Linker Networks 、 **PRO360** 、 **CAPSULE.** 、 **訊連科技**
 - 2017/12/26 ， 投 Pinkoi 、 Codementor
 - 2017/12/25 ， meepShop 面試
-- 2017/12/26 ， Lingtelli 面試，當場 offer get (50k*12)
+- 2017/12/26 ， Lingtelli 面試，當場 offer get (50k \* 12)
 - 2017/12/28 ， Capsule 面試
 - 2017/12/29 ， Garena 一階段面試（HR + 筆試）， 筆試通過與新加坡工程師約1/11 skype 面試 
 - 2017/12/29 ， 訊連面試
 - 2018/01/02 ， Pro 360 面試
-- 2018/01/02 ， meepShop offer get (45k*14)
+- 2018/01/02 ， meepShop offer get (45k \* 14)
 - 2018/01/05 ， 訊連感謝信
 - 2018/01/05 ， Capsule 約二次面試
-- 2018/01/08 ， Pro 360 offer get (45k-50k*14)
+- 2018/01/08 ， Pro 360 offer get (45k-50k \* 14)
 - 2018/01/09 ， meepShop 上班去
 
 
@@ -197,12 +196,12 @@ onboard時間，這時候請自行評估，如果你面的公司很多，就儘�
 所以這是個機會很大的年代。
 
 這同時也讓我有點緊張跟困惑，
-講得好像工程師（網頁&APP）好像入門門檻很低一樣，
+講得好像工程師（網頁 & APP）好像入門門檻很低一樣，
 大家如果都來搶飯碗，
 供過於求的情況下我們的薪水應該會掉下去阿。
 但我在面試中發現，
 面試官們重視的反而是「心態」，
-因為雖然入門簡單但這個技術變化實在太快，
+因為入門雖然簡單但這個技術變化實在太快，
 你得不斷補充新知甚至整個重新 refactor 你的 code，
 所以抱著學一個技能、混一口飯吃的人很快就會被淘汰掉。
 套句強者我朋友`炮王`說的：   
@@ -211,7 +210,7 @@ onboard時間，這時候請自行評估，如果你面的公司很多，就儘�
 這到底哪裡 Senior 了？」
 
 而本科生的優點在於對一些基本概念（當初上課時覺得沒啥屌用的知識）的了解，
-雖然在寫這些應用方面的程式時用不到，
+雖然在寫應用方面的程式時用不太到，
 但我認為那些「思維方式」能夠幫助你快速學習新知識，
 不過如果當初是用填鴨方式學起來的話不納入考慮範圍
 （如當年機率考古題背爽爽，三小都沒學到QQ）
@@ -220,9 +219,8 @@ onboard時間，這時候請自行評估，如果你面的公司很多，就儘�
 訊連科技面試題：
 三大部份：
 1. 程式題（JAVA）
-	- Method Scope 問題如 defining class, subclass in different package等等
-		對於 public, private, protected 等等的 availiblity.
-	- Debug 題： 錯在繼承者沒有定義自己的 constructor, 以及 super()
+	- Method Scope 問題如 defining class, subclass in different package等等對於 public, private, protected 等等的 availiblity.
+	- Debug 題：錯在繼承者沒有定義自己的 constructor, 以及 super()
 		的使用錯誤等等.
 	- pass by ref 跟 pass by value 的輸出結果
 	- inheritance v.s. composition, 
@@ -247,13 +245,13 @@ Garena 考題：
 我用考題類型分，有些是複選題有些是簡答題。
 （ HR 跟我說是資工大二、大三程度...嗯也是拉，但都是很廣又淺的東西，
 早忘光光了）
-1. 機率部份：
+1. Possibility: 
 	- 一把槍一顆子彈有 1/4 上靶率，那要開幾槍才能有 70% 的上靶率
   - 一副卜克牌，抽出4張 ACE 的機率為多少
 2. OS
-	- progress & thread 問題
+	- progress & thread
 	- preorder, inorder, postorder of the binary tree
-	- virtual memory 問題
+	- virtual memory
 3. Discrete Math
 4. SQL
 5. Time Analytics
@@ -262,14 +260,36 @@ Garena 考題：
 	- 將一個 LinkedList (a1, a2, ..., an) 傳入 function，  
 		回傳一個新的 LinkedList ， 順序為 a1, an, a2, an-1...
 	- C pointer (sizeof), stack
+
 			
 meepShop 考題：
-1. 
+1. `c10k` ?
+2. `microservice` architecture pros & cons
+3. js `closure` [example](https://goo.gl/6WNJKd)
+4. error handling
+5. `Race condition`, write an example.
+6. How to test a `distributed system` ?
+7. How to deal with a `distributed system` ?
+8. `Deadlock`, explain by code
 
 
+
+---
 <div><a class="hashtag"></a></div>
 
+---
+**Refrence: **
+[朋友心得 - 1](https://goo.gl/LmHzCb)
+[朋友心得 - 2](https://goo.gl/Pw6hiG)
 
 
-[wen blog 1](https://goo.gl/LmHzCb)
-[wen blog 2](https://goo.gl/Pw6hiG)
+
+
+
+
+[104](https://www.104.com.tw/)
+[f2e](https://github.com/f2etw/jobs/issues)
+[ptt](https://www.ptt.cc/bbs/Soft_Job/index.html)
+
+
+
