@@ -225,7 +225,7 @@ onboard時間，這時候請自行評估，如果你面的公司很多，就儘�
 - 2017/12/25 ， 投 **Garena** 、 Linker Networks 、 **PRO360** 、 **CAPSULE.** 、 **訊連科技**
 - 2017/12/26 ， 投 Pinkoi 、 Codementor
 - 2017/12/25 ， meepShop 面試
-- 2017/12/26 ， Lingtelli 面試，當場 offer get (N+10k \* 12)
+- 2017/12/26 ， Lingtelli 面試，當場 offer get (N+10k \* 12...)
 - 2017/12/28 ， Capsule 面試
 - 2017/12/29 ， Garena 一階段面試（HR + 筆試）， 筆試通過與新加坡工程師約1/11 skype 面試 
 - 2017/12/29 ， 訊連面試
@@ -258,7 +258,7 @@ _PS: N 為我心中四大資工系的基本價 XDD_
 但我在面試中發現，
 面試官們重視的反而是「心態」，
 因為入門雖然簡單但這個技術變化實在太快，
-你得不斷補充新知甚至整個重新 refactor 你的 code，
+你得不斷補充新知甚至整個 refactor 你的 code，
 所以抱著學一個技能、混一口飯吃的人就很難繼續前進。
 套句強者我朋友`炮王`說的：  
 「很多公司徵 Senior 開發者（3年以上），
@@ -342,8 +342,9 @@ _PS: N 為我心中四大資工系的基本價 XDD_
 ---
 
 #### Refrence:
-[朋友心得 - 1](https://goo.gl/LmHzCb)
-[朋友心得 - 2](https://goo.gl/Pw6hiG)
+[朋友心得 - 1](https://goo.gl/LmHzCb)  
+[朋友心得 - 2](https://goo.gl/Pw6hiG)  
+[ptt - \[心得\] 15家中小型公司、新創公司面試心得分享](https://disp.cc/b/611-9xrs)
 
 
 
