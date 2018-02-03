@@ -11,14 +11,14 @@ url:  /2018-02-03-job-interview/
 ---
 
 ### 前言
-在打這一篇之前有一些遲疑，
-看看自己的經歷、履歷都沒有什麼特別的，
-不過還是想要幫自己做一個紀錄並給自己一些勉勵。
+在打這一篇之前原本有一些遲疑，
+想想自己的經歷、履歷都沒有什麼特別的，
+不過還是想要幫自己做一個紀錄!
 此外一直以來都受到很多網路上的文章啟發與幫助，
 也當作是一種回饋（？）吧。
 總會有人會因為我的文章可以得到一些參考！  
 
-另外就是開始[紀錄自己的歷程](https://medium.freecodecamp.org/why-documenting-your-journey-will-lead-to-success-as-a-developer-38aa9fa4bac8)也是種幫助成長的好方法！
+此外開始[紀錄自己的歷程](https://medium.freecodecamp.org/why-documenting-your-journey-will-lead-to-success-as-a-developer-38aa9fa4bac8)也是種幫助成長的好方法！
 
 ### 關於我
 四大學士，本科生，
