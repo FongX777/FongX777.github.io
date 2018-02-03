@@ -17,11 +17,11 @@ tilte: Archive
 	}
 
 </style>
- <h1> 2017 </h1>
+ <!-- <h1> 2017 </h1> -->
  <br>
  {% for post in site.posts %}
 	 <li>
-		 <small>{{ post.date | date: '%B %d' }}</small>
+		 <small>{{ post.date | date: '%Y %B %d' }}</small>
 		 <h3>
 			 <a href="{{ post.url }}"> {{ post.title }} </a>
 		 </h3>
