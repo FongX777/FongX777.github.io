@@ -1,17 +1,15 @@
 ---
 layout: post
-title: 新鮮人找工作
-subtitle: 一起出社會
+title: 資工新鮮人找工作
+subtitle: 一起出社會!
 category: 工作
 tags: [工作, 面試, 分享]
 published: true
 img-src: /img/2018/02-03
+image: /img/2018/02-03/cover.jpeg
 url:  /2018-02-03-job-interview/
 ---
 
-![cover img]({{page.img-src}}/cover.png)
-
-<br>
 ### 前言
 在打這一篇之前有一些遲疑，
 看看自己的經歷、履歷都沒有什麼特別的，
